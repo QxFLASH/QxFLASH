@@ -33,7 +33,7 @@
 **╭──⦁ Simple method ⦁──╮**
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@@ownerDARK/PunyTalkativeVirtualmemory/WhatsAsena-QR)
+[![Run on Replit.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.it/@QxFLASH/QxFLASH/WhatsAsena-QR)
 
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
