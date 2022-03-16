@@ -18,7 +18,6 @@
 </p>
 
 
-![logo](https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg)
 
 
 
