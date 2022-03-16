@@ -33,11 +33,10 @@
 **╭──⦁ Simple method ⦁──╮**
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsApp-Bot)](https://replit.com/@TOXICDEVIL/Leon)
 
 ##🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamodya-official/Queen-Alexa)
-
+[![Deploy-Leon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
 
  **🧚‍♀️Thanks For using QUEEN xFLASH💫**0
 © 2022 GitHub, Inc.
