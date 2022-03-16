@@ -11,7 +11,7 @@
 <p align="center">
     <a href="https://github.com/cdkflsh">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+QxFLASH...+Thank+You+For+Visiting+us.... BY CHATHURA"
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+QxFLASH...+Thank+You+For+CHATHURA+us.... "
             alt="Typing SVG"
         />
     </a>
