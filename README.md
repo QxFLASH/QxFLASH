@@ -25,10 +25,10 @@
 
 ### 🧚‍♀️QxFLASH TEAM💫
 
-
+## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
 👨‍💻  EN cuzier *[ Owner ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94778632819)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94714538340)
 
 **╭──⦁ Simple method ⦁──╮**
 
